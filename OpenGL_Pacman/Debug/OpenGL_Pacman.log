@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (OpenGL_Pacman.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+d:\users\edisson flores\documents\school\college\game engine development ii\assignments\finalproject\git\ged2-finalproject\opengl_pacman\pierastar.h(131): warning C4018: '<': signed/unsigned mismatch
+d:\users\edisson flores\documents\school\college\game engine development ii\assignments\finalproject\git\ged2-finalproject\opengl_pacman\pierastar.h(136): warning C4018: '<': signed/unsigned mismatch
+d:\users\edisson flores\documents\school\college\game engine development ii\assignments\finalproject\git\ged2-finalproject\opengl_pacman\pierastar.h(151): warning C4018: '<': signed/unsigned mismatch
+  OpenGL_Pacman.vcxproj -> D:\Users\Edisson Flores\Documents\School\College\Game Engine Development II\Assignments\FinalProject\Git\GED2-FinalProject\OpenGL_Pacman\Debug\OpenGL_Pacman.exe
+  OpenGL_Pacman.vcxproj -> D:\Users\Edisson Flores\Documents\School\College\Game Engine Development II\Assignments\FinalProject\Git\GED2-FinalProject\OpenGL_Pacman\Debug\OpenGL_Pacman.pdb (Full PDB)
